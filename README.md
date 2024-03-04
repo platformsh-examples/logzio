@@ -1,14 +1,9 @@
-> :warning: **UNMAINTAINED PLATFORM.SH EXAMPLE PROJECT** :warning:
+
+> [!WARNING]
+> **Unmaintained code example**
 >
-> [Platform.sh Examples](https://github.com/platformsh-templates) are proof of concepts. While they can be used as reference, they are generally unmaintained once published. Feel free to use them as a starting point for your work, but remember that [Platform.sh Templates](https://github.com/platformsh-templates) are the only example projects with regular maintenance.
->
-> When working with example projects:
->
-> 1. Consult the [examples information page](https://docs.platform.sh/development/templates#examples.html) of the documentation for any major API changes that have occurred since the example was archived.
-> 2. Upgrade all configurations used in this example to the most recently supported version for each service and runtime, as newer versions may come with important security fixes. Click the link for each service used in this example below to find the most recent versions:
->     * [Python 3.7](https://docs.platform.sh/languages/python.html#supported)
->     * [MariaDB 10.4](https://docs.platform.sh/configuration/services/mysql.html#supported-versions)
->     * [Redis 5.0](https://docs.platform.sh/configuration/services/redis.html#supported-versions)
+> Public code examples are proof of concepts.
+> Feel free to use them as a starting reference for your work, but remember that they are generally unmaintained once published.
 
 # Logz.io log shipping for Platform.sh
 
